@@ -30,19 +30,19 @@
 <br>
 
 
-<div width="100vw">
-<hr>
-<p><img align="left" width="430" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmohammed448&show_icons=true&locale=en&layout=compact" alt="hmohammed448" /><br><br></p>
-</div>
-<br>
-
-<div width="100vw">
+<div align="left" width="100vw">
 <hr width="100%">
-<p><img align="left" width="430" src="https://github-readme-stats.vercel.app/api?username=hmohammed448&show_icons=true&locale=en" alt="hmohammed448" /></p>
+<p><img align="center" width="430" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmohammed448&show_icons=true&locale=en&layout=compact" alt="hmohammed448" /><br><br></p>
 </div>
 <br>
 
-<div width="100vw">
-<hr width="80%">
-<p><img align="left" width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=hmohammed448&" alt="hmohammed448" /></p>
+<div align="left" width="100vw">
+<hr width="100%">
+<p><img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=hmohammed448&show_icons=true&locale=en" alt="hmohammed448" /></p>
+</div>
+<br>
+
+<div align="left" width="100vw">
+<hr width="100%">
+<p><img align="center" width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=hmohammed448&" alt="hmohammed448" /></p>
 </div>
