@@ -44,5 +44,5 @@
 
 <div align="left" width="100vw">
 <hr width="100%">
-<p><img align="center" width="430" src="https://github-readme-streak-stats.herokuapp.com/?username=hmohammed448&show_icons=true&locale=en" alt="hmohammed448" /></p>
+<p><img align="center" width="430" src="https://github-readme-streak-stats.herokuapp.com/?username=hmohammed448&show_icons=true&locale=en&layout=compact" alt="hmohammed448" /></p>
 </div>
