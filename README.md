@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Hussain</h1>
 <h3 align="center">I'm Java Developer, a BCA graduate from 2019 with a passion for web development. My journey in the world of coding began with HTML, CSS, and JavaScript, and I've been honing my skills in these technologies. Currently, I'm delving into the fascinating realms of Java, Data Structures, Algorithms, and OOPs Concepts through Geekster. I'm a firm believer in the power of continuous learning, and I'm always eager to explore new frontiers in the world of programming. I thrive on the challenges of coding and enjoy building meaningful projects that showcase my skills. <br>  <br> Let's code and create amazing things! ✨</h3>
+<p align="center">
+<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "It's never late to get started 🎯❤️!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+ </p>
  <br> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmohammed448&label=Profile%20views&color=0e75b6&style=flat" alt="hmohammed448" /> </p>
 
